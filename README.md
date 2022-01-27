@@ -50,8 +50,8 @@
 [RGMP](https://github.com/seoungwugoh/RGMP/graphs/contributors)  
 [VIPlatform](https://github.com/videoturingtest/VIPlatform)  
 [시각적 의미 지식 장면 그래프 통합 모델](https://github.com/videoturingtest/alvr-ESA)  
-[]()  
-[]()  
+[DramaQA](https://github.com/videoturingtest/DramaQA)  
+[taqm](https://github.com/videoturingtest/tapm)  
 
 <!--
 ### 기대효과
