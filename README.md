@@ -37,63 +37,77 @@
 
 ## 링크
 
+- 통합 비디오 이해 지능 플랫폼  
+    - [VIPlatform](https://github.com/videoturingtest/VIPlatform)  
 
 - 음성 처리
-    - Sound Event Detection  
-    - RGMP  
-    - aedclient  
-발화 이해 및 답변 생성 : VTT-KHU-2019
 
-메모리 기반 QA : DramaQA
-멀티모달 스토리 QA : vtt_qa_pipeline, tapm (이거 오타났으니 확인. taqm아니고 tapm이야)
+    - [Sound Event Detection](https://github.com/sgspeech/aedclient)   
+    - [Android audio event classification client(aedclient)](https://github.com/videoturingtest/aedclient)  
+    - [Sound event detection model using CNN+RNN(sed_rnn)](https://github.com/videoturingtest/sed_rnn)  
 
-스토리 서사 구축 : GLACNet, 시각적 의미 지식 장명 그래프 통합 모델
-비디오 요약 : 문장기반 정지영상 자동 편집 기술, QuestionRelatedScene, tagan
 
-계산 병렬화 : Parallax, Rnb
-모델 압축 : FALCON, KegNet
-통합 비디오 이해 지능 플랫폼 : VIPlatform
+- 발화 이해 및 답변 생성  
+    - [Question Level classification (QLC)](https://github.com/videoturingtest/VTT-KHU-2019) 
 
-인물/객체 인식 : VTT_TRACKING
-행동 인식 : vtt-action-recognition
-소리/음성 인식 : sed_rnn
-장소 의미 인식 : 2nd-year
+    - [Multiple Answer Selection (MAS)](https://github.com/videoturingtest/VTT-KHU-2019) 
 
-자연어 지식 구축 : vtt-triple-data, KENE, vtt-swrc-2018
-세계 지식 체계 생성 : knowledge-graph-***, video-knowledge-collector
 
-기타 : EvalAI-Starters (이거 왜있는거지? 그냥 링크 없어도 될듯)
+- 멀티모달 스토리 QA  
+    - [Video QA Pipeline](https://github.com/videoturingtest/vtt_qa_pipeline)  
+    - [DramaQA](https://github.com/videoturingtest/DramaQA)  
 
-[Parallax](https://github.com/videoturingtest/parallax/graphs/contributors)  
-[FALCON](https://github.com/videoturingtest/FALCON)  
-[GLACNet](https://github.com/tkim-snu/GLACNet)  
-[문장기반 정지영상 자동 편집 기술](https://github.com/videoturingtest/QuestionRelatedScene)  
-[VTT-KHU-2019](https://github.com/videoturingtest/VTT-KHU-2019)  
-[vtt_qa_pipeline](https://github.com/videoturingtest/vtt_qa_pipeline)  
-[KegNet](https://github.com/videoturingtest/KegNet)  
-[Rnb](https://github.com/videoturingtest/rnb)  
-[QuestionRelatedScene](https://github.com/videoturingtest/QuestionRelatedScene)  
-[Sound Event Detection](https://github.com/sgspeech/aedclient)  
-[RGMP](https://github.com/seoungwugoh/RGMP/graphs/contributors)  
-[VIPlatform](https://github.com/videoturingtest/VIPlatform)  
-[시각적 의미 지식 장면 그래프 통합 모델](https://github.com/videoturingtest/alvr-ESA)  
-[DramaQA](https://github.com/videoturingtest/DramaQA)  
-[taqm](https://github.com/videoturingtest/tapm)  
-[VTT_TRACKING](https://github.com/videoturingtest/VTT_TRACKING)  
-[sed_rnn](https://github.com/videoturingtest/sed_rnn)  
-[EvalAI-Starters](https://github.com/videoturingtest/EvalAI-Starters)  
-[aedclient](https://github.com/videoturingtest/aedclient)  
-[vtt-action-recognition](https://github.com/videoturingtest/vtt-action-recognition)  
-[tagan](https://github.com/videoturingtest/tagan)  
-[vtt-triple-data](https://github.com/videoturingtest/vtt-triple-data)  
-[2nd-year](https://github.com/videoturingtest/2nd-year)  
-[knowledge-graph-visualizer](https://github.com/videoturingtest/knowledge-graph-visualizer)  
-[knowledge-graph-input-repo-collector](https://github.com/videoturingtest/knowledge-graph-input-repo-collector)  
-[knowledge-graph-input](https://github.com/videoturingtest/knowledge-graph-input)  
-[knowledge-graph-builder](https://github.com/videoturingtest/knowledge-graph-builder)  
-[video-knowledge-collector](https://github.com/videoturingtest/video-knowledge-collector)  
-[KENE](https://github.com/videoturingtest/KENE)  
-[vtt-swrc-2018](https://github.com/videoturingtest/vtt-swrc-2018)  
+
+- 스토리 서사 구축  
+    - [GLACNet](https://github.com/tkim-snu/GLACNet)  
+
+    - [시각적 의미 지식 장면 그래프 통합 모델](https://github.com/videoturingtest/alvr-ESA)  
+
+
+- 비디오 요약  
+    - [문장기반 정지영상 자동 편집 기술(QuestionRelatedScene)](https://github.com/videoturingtest/QuestionRelatedScene)  
+
+    - [Text-Adaptive Generative Adversarial Network (TAGAN)](https://github.com/videoturingtest/tagan)  
+
+    - [Fast Video Object Segmentation by Reference-Guided Mask Propagation(RGMP)](https://github.com/videoturingtest/RGMP)     
+
+    - [Transitional Adaptation of Pretrained Models for Visual Storytelling (TAPM)](https://github.com/videoturingtest/tapm)   
+
+    - [VTT_TRACKING](https://github.com/videoturingtest/VTT_TRACKING)  
+
+    - [vtt-action-recognition](https://github.com/videoturingtest/vtt-action-recognition)  
+
+    - [place recognition model](https://github.com/videoturingtest/2nd-year)
+
+    - [video-knowledge-collector](https://github.com/videoturingtest/video-knowledge-collector)  
+    
+
+- 자연어 지식 구축  
+    - [자연어 이벤트 데이터(vtt-triple-data)](https://github.com/videoturingtest/vtt-triple-data)  
+
+    - [KENE](https://github.com/videoturingtest/KENE)  
+
+    - [SWRC 연구 결과 통합 모듈 저장소(vtt-swrc-2018)](https://github.com/videoturingtest/vtt-swrc-2018)  
+
+
+- 계산 병렬화  
+    - [Parallax](https://github.com/videoturingtest/parallax/graphs/contributors)  
+
+    - [Replicate & Batch (RnB)](https://github.com/videoturingtest/rnb)   
+    
+
+
+- 모델 압축  
+    - [FALCON](https://github.com/videoturingtest/FALCON)   
+       
+    - [KegNet](https://github.com/videoturingtest/KegNet)  
+
+
+
+  
+ 
+
+
 
 <!--
 ### 기대효과
