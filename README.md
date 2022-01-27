@@ -37,21 +37,21 @@
 
 ## 링크
 
-[Parallax](https://github.com/videoturingtest/parallax/graphs/contributors)
-[FALCON](https://github.com/videoturingtest/FALCON)
-[GLACNet](https://github.com/tkim-snu/GLACNet)
-[문장기반 정지영상 자동 편집 기술](https://github.com/videoturingtest/QuestionRelatedScene)
-[VTT-KHU-2019](https://github.com/videoturingtest/VTT-KHU-2019)
-[vtt_qa_pipeline](https://github.com/videoturingtest/vtt_qa_pipeline)
-[KegNet](https://github.com/videoturingtest/KegNet)
-[Rnb](https://github.com/videoturingtest/rnb)
-[QuestionRelatedScene](https://github.com/videoturingtest/QuestionRelatedScene)
-[Sound Event Detection](https://github.com/sgspeech/aedclient)
-[RGMP](https://github.com/seoungwugoh/RGMP/graphs/contributors)
-[VIPlatform](https://github.com/videoturingtest/VIPlatform)
-[시각적 의미 지식 장면 그래프 통합 모델](https://github.com/videoturingtest/alvr-ESA)
-[]()
-[]()
+[Parallax](https://github.com/videoturingtest/parallax/graphs/contributors)  
+[FALCON](https://github.com/videoturingtest/FALCON)  
+[GLACNet](https://github.com/tkim-snu/GLACNet)  
+[문장기반 정지영상 자동 편집 기술](https://github.com/videoturingtest/QuestionRelatedScene)  
+[VTT-KHU-2019](https://github.com/videoturingtest/VTT-KHU-2019)  
+[vtt_qa_pipeline](https://github.com/videoturingtest/vtt_qa_pipeline)  
+[KegNet](https://github.com/videoturingtest/KegNet)  
+[Rnb](https://github.com/videoturingtest/rnb)  
+[QuestionRelatedScene](https://github.com/videoturingtest/QuestionRelatedScene)  
+[Sound Event Detection](https://github.com/sgspeech/aedclient)  
+[RGMP](https://github.com/seoungwugoh/RGMP/graphs/contributors)  
+[VIPlatform](https://github.com/videoturingtest/VIPlatform)  
+[시각적 의미 지식 장면 그래프 통합 모델](https://github.com/videoturingtest/alvr-ESA)  
+[]()  
+[]()  
 
 <!--
 ### 기대효과
