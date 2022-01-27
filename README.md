@@ -52,6 +52,21 @@
 [시각적 의미 지식 장면 그래프 통합 모델](https://github.com/videoturingtest/alvr-ESA)  
 [DramaQA](https://github.com/videoturingtest/DramaQA)  
 [taqm](https://github.com/videoturingtest/tapm)  
+[VTT_TRACKING](https://github.com/videoturingtest/VTT_TRACKING)  
+[sed_rnn](https://github.com/videoturingtest/sed_rnn)  
+[EvalAI-Starters](https://github.com/videoturingtest/EvalAI-Starters)  
+[aedclient](https://github.com/videoturingtest/aedclient)  
+[vtt-action-recognition](https://github.com/videoturingtest/vtt-action-recognition)  
+[tagan](https://github.com/videoturingtest/tagan)  
+[vtt-triple-data](https://github.com/videoturingtest/vtt-triple-data)  
+[2nd-year](https://github.com/videoturingtest/2nd-year)  
+[knowledge-graph-visualizer](https://github.com/videoturingtest/knowledge-graph-visualizer)  
+[knowledge-graph-input-repo-collector](https://github.com/videoturingtest/knowledge-graph-input-repo-collector)  
+[knowledge-graph-input](https://github.com/videoturingtest/knowledge-graph-input)  
+[knowledge-graph-builder](https://github.com/videoturingtest/knowledge-graph-builder)  
+[video-knowledge-collector](https://github.com/videoturingtest/video-knowledge-collector)  
+[KENE](https://github.com/videoturingtest/KENE)  
+[vtt-swrc-2018](https://github.com/videoturingtest/vtt-swrc-2018)  
 
 <!--
 ### 기대효과
