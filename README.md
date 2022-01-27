@@ -61,4 +61,6 @@
 
 ## 링크
 
-[링크](주소)
+![Parallax](https://github.com/videoturingtest/parallax/graphs/contributors
+)
+
