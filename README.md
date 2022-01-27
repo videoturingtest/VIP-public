@@ -37,6 +37,34 @@
 
 ## 링크
 
+
+- 음성 처리
+-  Sound Event Detection  
+-  RGMP  
+-  aedclient  
+
+발화 이해 및 답변 생성 : VTT-KHU-2019
+
+메모리 기반 QA : DramaQA
+멀티모달 스토리 QA : vtt_qa_pipeline, tapm (이거 오타났으니 확인. taqm아니고 tapm이야)
+
+스토리 서사 구축 : GLACNet, 시각적 의미 지식 장명 그래프 통합 모델
+비디오 요약 : 문장기반 정지영상 자동 편집 기술, QuestionRelatedScene, tagan
+
+계산 병렬화 : Parallax, Rnb
+모델 압축 : FALCON, KegNet
+통합 비디오 이해 지능 플랫폼 : VIPlatform
+
+인물/객체 인식 : VTT_TRACKING
+행동 인식 : vtt-action-recognition
+소리/음성 인식 : sed_rnn
+장소 의미 인식 : 2nd-year
+
+자연어 지식 구축 : vtt-triple-data, KENE, vtt-swrc-2018
+세계 지식 체계 생성 : knowledge-graph-***, video-knowledge-collector
+
+기타 : EvalAI-Starters (이거 왜있는거지? 그냥 링크 없어도 될듯)
+
 [Parallax](https://github.com/videoturingtest/parallax/graphs/contributors)  
 [FALCON](https://github.com/videoturingtest/FALCON)  
 [GLACNet](https://github.com/tkim-snu/GLACNet)  
