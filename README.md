@@ -39,10 +39,9 @@
 
 
 - 음성 처리
- - Sound Event Detection  
- - RGMP  
- - aedclient  
-
+    - Sound Event Detection  
+    - RGMP  
+    - aedclient  
 발화 이해 및 답변 생성 : VTT-KHU-2019
 
 메모리 기반 QA : DramaQA
