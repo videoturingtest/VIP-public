@@ -34,6 +34,12 @@
 - 모델 압축 실시간 인공지능 서비스 기술 이전
 - 영상 자동 요약 기술 활용
 
+
+## 링크
+
+![Parallax](https://github.com/videoturingtest/parallax/graphs/contributors
+)
+
 <!--
 ### 기대효과
 * 기술적 측면
@@ -57,10 +63,7 @@
 - 사회적 측면
   - 새로운 이윤 및 일자리 창출
   - 인공지능 서비스의 대중화
-—>
+-—>
 
-## 링크
 
-![Parallax](https://github.com/videoturingtest/parallax/graphs/contributors
-)
 
